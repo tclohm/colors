@@ -1,11 +1,11 @@
-# car-colors
+# @tclohm/car-colors
 
 A comprehensive ESM module of car colors, organized by category with utility functions.
 
 ## Install
 
 ```bash
-npm install car-colors
+npm install @tclohm/car-colors
 ```
 
 ## Usage
