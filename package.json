@@ -1,0 +1,19 @@
+{
+  "name": "@tclohm/car-colors",
+  "version": "1.0.0",
+  "description": "A comprehensive list of all colors available for cars",
+  "keywords": [
+    "car",
+    "colors",
+    "automotive",
+    "palette",
+    "hex"
+  ],
+  "license": "MIT",
+  "author": "tclohm",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
