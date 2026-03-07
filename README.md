@@ -11,7 +11,7 @@ npm install @tclohm/car-colors
 ## Usage
 
 ```js
-import carColors, { blues, findByName, randomColor } from 'car-colors';
+import carColors, { blues, findByName, randomColor } from '@tclohm/car-colors';
 
 // Get all colors
 console.log(carColors.allColors);
